@@ -1,7 +1,10 @@
 {
+   "amount":[ {
     "amount": "",
     "description": "Clave de pago invalida",
     "response_code": 1,
     "order_id": "0",
     "ivr_key": 0
+}]
+
 }
