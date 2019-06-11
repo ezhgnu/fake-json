@@ -1,5 +1,6 @@
 {
-   "amount":[ {
+   "amount":[
+      "error":{
     "amount": "",
     "description": "Clave de pago invalida",
     "response_code": 1,
